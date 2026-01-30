@@ -1,3 +1,5 @@
+#ifdef bprint_h
+#define bprint_h
 #include <stdio.h>
 
 #ifdef DEBUG
@@ -101,4 +103,5 @@
     #define CS_BG_BCYAN     ""
     #define CS_BG_BWHITE    ""
 
+#endif
 #endif
