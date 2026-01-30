@@ -1,4 +1,4 @@
-#ifdef bprint_h
+#ifndef bprint_h
 #define bprint_h
 #include <stdio.h>
 
